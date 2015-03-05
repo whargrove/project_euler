@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"br"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"swift",
+				"Set Syntax: Swift"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"view.settings().get('font_face')",
+			"clear",
+			"view.settings()",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wesley/code/project_euler"
+	],
+	"file_history":
+	[
+		"/Users/wesley/code/vino/lib/capistrano/tasks/prepare_bundle_config.rake",
+		"/Users/wesley/code/vino/config/deploy.rb",
+		"/Users/wesley/code/vino/config/deploy/production.rb",
+		"/Users/wesley/code/vino/config/deploy/staging.rb",
+		"/Users/wesley/code/vino/lib/capistrano/tasks/setup.rake",
+		"/Users/wesley/code/vino/config/nginx.conf",
+		"/Users/wesley/code/vino/config/unicorn.sh",
+		"/Users/wesley/code/vino/.ssh",
+		"/Users/wesley/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/wesley/.ssh/config",
+		"/Users/wesley/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/wesley/code/poker/app/models/user.rb",
+		"/Users/wesley/code/poker/spec/models/user_spec.rb",
+		"/Users/wesley/code/poker/spec/views/users/edit.html.erb_spec.rb",
+		"/Users/wesley/code/poker/spec/routing/users_routing_spec.rb",
+		"/Users/wesley/code/poker/spec/factories/users.rb",
+		"/Users/wesley/code/poker/spec/requests/users_spec.rb",
+		"/Users/wesley/code/poker/spec/views/users/show.html.erb_spec.rb",
+		"/Users/wesley/code/poker/spec/views/users/.keep",
+		"/Users/wesley/code/poker/spec/factories/user.rb",
+		"/Users/wesley/code/poker/spec/rails_helper.rb",
+		"/Users/wesley/code/poker/Gemfile",
+		"/Users/wesley/code/poker/bin/rails",
+		"/Users/wesley/code/poker/Rakefile",
+		"/Users/wesley/code/poker/.rspec",
+		"/Users/wesley/code/poker/bin/setup",
+		"/Users/wesley/code/vino/app/views/admin/posts/_form.html.erb",
+		"/Users/wesley/code/vino/app/assets/javascripts/application.js",
+		"/Users/wesley/code/vino/Gemfile",
+		"/Users/wesley/code/vino/app/views/shared/_head_tag.html.erb",
+		"/Users/wesley/code/vino/app/assets/stylesheets/application.css.scss",
+		"/Users/wesley/code/vino/bin/sass",
+		"/Users/wesley/code/vino/config/application.rb",
+		"/Users/wesley/code/vino/db/migrate/20140112051137_add_published_to_posts.rb",
+		"/Users/wesley/code/vino/spec/controllers/admin_posts_controller_spec.rb",
+		"/Users/wesley/code/vino/app/views/layouts/application.html.erb",
+		"/Users/wesley/vagrant/shib-sp/Vagrantfile",
+		"/Users/wesley/Desktop/ub-control.md",
+		"/Users/wesley/code/lynda/lynda-rb/Rakefile",
+		"/Users/wesley/code/lynda/lynda-rb/lib/lynda/rest/ping.rb",
+		"/Users/wesley/code/lynda/lynda-rb/lib/lynda/rest/delta.rb",
+		"/Users/wesley/code/lynda/lynda-rb/lib/lynda/delta.rb",
+		"/Users/wesley/code/lynda/lynda-rb/lib/lynda/courses.rb",
+		"/Users/wesley/code/lynda/lynda-rb/lib/lynda/course.rb",
+		"/Users/wesley/code/lynda/lynda-rb/lib/lynda/ping.rb",
+		"/Users/wesley/Desktop/txt",
+		"/Users/wesley/Desktop/todo"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"white_space"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "project_euler.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"rails",
+				"spec/rails_helper.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"rspec",
+				".rspec"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"urer",
+				"spec/factories/user.rb"
+			],
+			[
+				"applicationscss",
+				"app/assets/stylesheets/application.css.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
